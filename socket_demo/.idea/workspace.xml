@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fac192fe-6367-4c00-a9d8-d73ba4db9517" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1akf8fW4tAvi5rL3pMfTrVAVesp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SocketClient" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="socket_demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fac192fe-6367-4c00-a9d8-d73ba4db9517" name="Default Changelist" comment="" />
+      <created>1587284354971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587284354971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587318656910">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="94" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.709@0.23.1280.709" timestamp="1587318656910" />
+    <state x="367" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587318652982">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="367" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.709@0.23.1280.709" timestamp="1587318652982" />
+    <state width="650" height="462" key="DebuggerActiveHint" timestamp="1587309021911">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="650" height="462" key="DebuggerActiveHint/0.23.1280.709@0.23.1280.709" timestamp="1587309021911" />
+    <state width="1218" height="205" key="GridCell.Tab.0.bottom" timestamp="1587318743609">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="205" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1587318743609" />
+    <state width="1218" height="205" key="GridCell.Tab.0.center" timestamp="1587318743608">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="205" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1587318743608" />
+    <state width="1218" height="205" key="GridCell.Tab.0.left" timestamp="1587318743607">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="205" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1587318743607" />
+    <state width="1218" height="205" key="GridCell.Tab.0.right" timestamp="1587318743608">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="205" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1587318743608" />
+    <state width="1218" height="325" key="GridCell.Tab.1.bottom" timestamp="1587318100899">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="325" key="GridCell.Tab.1.bottom/0.23.1280.709@0.23.1280.709" timestamp="1587318100899" />
+    <state width="1218" height="325" key="GridCell.Tab.1.center" timestamp="1587318100898">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="325" key="GridCell.Tab.1.center/0.23.1280.709@0.23.1280.709" timestamp="1587318100898" />
+    <state width="1218" height="325" key="GridCell.Tab.1.left" timestamp="1587318100897">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="325" key="GridCell.Tab.1.left/0.23.1280.709@0.23.1280.709" timestamp="1587318100897" />
+    <state width="1218" height="325" key="GridCell.Tab.1.right" timestamp="1587318100898">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="325" key="GridCell.Tab.1.right/0.23.1280.709@0.23.1280.709" timestamp="1587318100898" />
+    <state x="34" y="23" key="new project wizard" timestamp="1587284795226">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="34" y="23" key="new project wizard/0.23.1280.709@0.23.1280.709" timestamp="1587284795226" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SocketClient_Recieving.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SocketClient_Recieving.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SocketClientSender.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SocketClientSender.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SocketClientSender.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
